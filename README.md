@@ -9,6 +9,15 @@ Exibir as opções
 
 
 
+
+
+
+
+
+
+
+
+
 Inserir uma série 
 
 ![image](https://user-images.githubusercontent.com/67518341/138149405-5773b43d-f6d2-4391-84c7-8a7fcb5d31a1.png)
@@ -18,9 +27,27 @@ Inserir uma série
 
 
 
+
+
+
+
+
+
+
+
 Listar as séries 
 
 ![image](https://user-images.githubusercontent.com/67518341/138149531-9f1e1fc7-3b08-499a-b5e8-c9530b0a4021.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
